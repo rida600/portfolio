@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<style>
+body {background-color: Thistle;}
+ </style>
+  <head>
+      <p title=":c">rida khan</p>
+      <p style="text-align:center;"title= "cool">
+        <b>about me:</b>
+      </p>
+      <ul style="text-align:center;">
+        <p style="text-align:center;">17</p>
+        <p style="text-align:center;">NY // Long Island</p>
+        <p title="why was the broom late? bc it overswept" style="text-align:center;"> i like art and bad jokes</p>
+        <p title="just kidding i hate sand no thank you i do like rain tho"style="text-align:center;"> i like long walks on the beach and having existential crises</p>
+  </head>
+  <body>
+
+<img src="flower.jpg" alt="flower" style="width:304px;height:228px;">
+
+
+
+
+      <p>my website</p>
+
+      <a href= "http://www.boredbutton.com"> bored? </a>
+
+  </body>
+</html>
